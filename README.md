@@ -6,7 +6,7 @@ Autolysis is a Python-based tool for automating dataset analysis, including prep
 
 - **Dataset Loading**: Automatically handles encoding errors (supports UTF-8 and ISO-8859-1).
 - **Data Cleaning**: Fills missing values with the mean for numeric columns and "Unknown" for non-numeric columns.
-- **Summary Statistics**: Provides a comprehensive statistical summary of the dataset.
+- **Summary Statistics**: Provides a comprehensive statistical dataset summary.
 - **Data Visualization**:
   - Correlation Heatmap
   - Histograms of Numeric Columns
