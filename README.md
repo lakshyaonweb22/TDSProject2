@@ -16,5 +16,5 @@ Autolysis is a Python-based tool for automating dataset analysis, including prep
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/autolysis.git
+   git clone https://github.com/lakshyaonweb22/autolysis.git
    cd autolysis
